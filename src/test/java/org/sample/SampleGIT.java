@@ -17,5 +17,16 @@ public class SampleGIT {
 
 		System.out.println("Washing Machine");
 	}
+private void ac() {
+	System.out.println("Voltas AC");
 
+}
+
+private void inverter() {
+	System.out.println("Inverter");
+
+}
+private void fan() {
+System.out.println("Fan");
+}
 }
