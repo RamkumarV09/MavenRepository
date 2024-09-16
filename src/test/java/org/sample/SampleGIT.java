@@ -17,5 +17,17 @@ public class SampleGIT {
 
 		System.out.println("Washing Machine");
 	}
+	private void Mixi() {
+
+		System.out.println("Mixi");
+	}
+	private void fridge() {
+
+		System.out.println("Refrigerator");
+	}
+	private void oven() {
+
+		System.out.println("Micro Oven");
+	}
 
 }
